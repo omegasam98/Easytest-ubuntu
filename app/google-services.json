@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "544991794934",
+    "firebase_url": "https://easytest-f2c54.firebaseio.com",
+    "project_id": "easytest-f2c54",
+    "storage_bucket": "easytest-f2c54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544991794934:android:debbf765d56c656b",
+        "android_client_info": {
+          "package_name": "e.rkkee.easytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544991794934-k9fvc0lm8kceumfqn6qdj375pkocrcj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.rkkee.easytest",
+            "certificate_hash": "1baf7a82440b119622e9eaf5583952206e20b86c"
+          }
+        },
+        {
+          "client_id": "544991794934-32m112o1jimttq2qc61odh0fg6m6hp0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.rkkee.easytest",
+            "certificate_hash": "4c55d424f3acb86072d9ddebd5f92662c263dbd1"
+          }
+        },
+        {
+          "client_id": "544991794934-fbptql1sf1a4obneit9aunfrkjf92tqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrnI5m7b_I04-epku_ZkgFxDE3PEtThUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544991794934-fbptql1sf1a4obneit9aunfrkjf92tqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
