@@ -21,13 +21,11 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
-import com.google.firebase.firestore.FirebaseFirestoreSettings;
 import com.google.firebase.firestore.QuerySnapshot;
 
 import java.util.concurrent.Executors;
 
 import static e.rkkee.easytest.Login.mMyAppsBundlecon;
-import static e.rkkee.easytest.profile_edit.bundle;
 
 
 public class MainActivity extends AppCompatActivity
